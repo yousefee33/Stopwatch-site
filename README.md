@@ -19,7 +19,8 @@ A sleek, fully functional stopwatch built using **HTML**, **CSS**, and **Vanilla
 
 ## 📷 Screenshot
 
-![Uploading image.png…]()
+<img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/d7f57ac2-5004-4bdf-ba2d-484579b45111" />
+
 
 
 ## 🚀 Getting Started
